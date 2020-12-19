@@ -1,7 +1,6 @@
-# typescript-advanced-template
+# typescript-basic-template
 
 - [x] Typescript settings
-- [x] Eslint/Prettier
 - [x] Styled components
 
 
